@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on new Flutter App<br>👯 I’m looking to collaborate on a C/C++ project<br>🌱 I’m currently learning CLang to write faster WASM<br>⚡ Fun fact I program to relax <br>And I use Arch by the way
+🔭 I’m currently working on new Flutter App<br>👯 I’m looking to collaborate on a C/C++ project<br>🌱 I’m currently learning C3Lang to write faster WASM<br>⚡ Fun fact I program to relax <br>And I use Arch by the way
 
 
 ## 🌐 Socials:
