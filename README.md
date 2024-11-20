@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on new Flutter App called Suvenir. Is a open source project (https://github.com/AndreSbro03/AndreSbro03/Suvenir) that was born to help me fix my Instagram / TikTok addiction. It's a Gallery that propose you YOUR medias randomized like tiktok. You can like them, put them in the app trash or just remeber something you had forgotten.  <br><br>👯 I’m looking to collaborate on a C/C++ project<br>🌱 I’m currently learning C3Lang to write faster WASM<br>⚡ Fun fact I program to relax <br>And I use Arch by the way
+🔭 I’m currently working on new Flutter App called Suvenir. Is a open source project (https://github.com/AndreSbro03/Suvenir) that was born to help me fix my Instagram / TikTok addiction. It's a Gallery that propose you YOUR medias randomized like tiktok. You can like them, put them in the app trash or just remeber something you had forgotten.  <br><br>👯 I’m looking to collaborate on a C/C++ project<br>🌱 I’m currently learning C3Lang to write faster WASM<br>⚡ Fun fact I program to relax <br>And I use Arch by the way
 
 
 ## 🌐 Socials:
