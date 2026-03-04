@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on new Flutter App called Suvenir. The idea was born to help me fix my Instagram / TikTok addiction. It's a Gallery that propose you YOUR medias randomized like tiktok. You can like them, put them in the app trash or just remeber something you had forgotten.  <br><br>👯 I’m looking to collaborate on a C/C++ project<br>🌱 I’m currently learning C3Lang to write faster WASM<br> And I use Arch by the way
+🔭 I’m currently working on new Flutter App called Suvenir. The idea was born to help me fix my Instagram / TikTok addiction. It's a Gallery that propose you YOUR medias randomized like tiktok. You can like them, put them in the app trash or just remeber something you had forgotten.
 
 
 ## 🌐 Socials:
